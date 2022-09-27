@@ -2,7 +2,7 @@
 
 I am Software developer from Latvia.  
 I am working with C# and .NET projects.  
-I have basic knowledge in Java and Spring Boot framework. 
+I have basic knowledge of Java and Spring Boot framework. 
 
 # ➡️ My skills
 
