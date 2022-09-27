@@ -4,17 +4,5 @@ I am Software developer from Latvia.
 I am working with C# and .NET projects.  
 I have basic knowledge of Java and Spring Boot framework. 
 
-# ➡️ My skills
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp Logo" width="50" height="50"/>      <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotNet Logo" width="50" height="50"/>      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/>        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql Logo" width="50" height="50"/>       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SqlLite Logo" width="50" height="50"/>       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/>        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" width="50" height="50"/> 
 
-- C#
-- .NET
-- Git
-- Relational Databases & SQL
-- HTTP & Web API Basics
-- Unit Testing
-- Test Driven Development
-- Clean Code, SOLID
-- Design Patterns
-- HTML & CSS, VueJS, TypeScript & NodeJS basics
-- Java
-- Spring Boot
