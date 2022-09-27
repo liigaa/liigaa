@@ -1,7 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Liga Cepurniece!
 
-I am Software developer from Latvia.
-I am working with C# and .NET projects
+I am Software developer from Latvia.  
+I am working with C# and .NET projects.  
+I have basic knowledge in Java and Spring Boot framework. 
 
 # ➡️ My skills
 
@@ -15,5 +16,5 @@ I am working with C# and .NET projects
 - Clean Code, SOLID
 - Design Patterns
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
-
-
+- Java
+- Spring Boot
